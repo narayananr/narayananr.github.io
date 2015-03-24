@@ -6,14 +6,7 @@ title: Teaching
 15-16 November 2014
 * Introduction to transcriptome analysis using RNA-seq
 
-####[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at [The Jackson Laboratory](http://www.jax.org/)
-Sep 27-Oct 4, 2014
-* RNA-seq: From experimental design to gene expression
-
-Sep 27-Oct 4, 2013
-* RNA-seq: From experimental design to gene expression
-
-Sep 27-Oct 4, 2012
+####[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at [The Jackson Laboratory](http://www.jax.org/) 2012-2014
 * RNA-seq: From experimental design to gene expression
 
 
