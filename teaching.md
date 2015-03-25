@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-####Tufts/U. Maine Grad School's Mammalian Genetics Course
+####Tufts/U. Maine Grad School's Mammalian Genetics Course (2013-2015)
 * RNA-Seq: From experimental design to gene expression abundance
 
 ####[NGS Bioinformatics Workshop](http://scigenomconferences.com/2014/NGS-bioinformatics.php), 2014 NextGen Genomics & Bioinformatics Technologies (NGBT) Conference, 15-16 November 2014
