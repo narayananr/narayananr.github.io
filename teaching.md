@@ -12,5 +12,8 @@ title: Teaching
 ####[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at [The Jackson Laboratory](http://www.jax.org/) 2012-2014
 * RNA-seq: From experimental design to gene expression
 
+####[Workshop on Modern Approaches to High Throughput Sequencing](http://courses.jax.org/2014/Sequencing.html) at [The Jackson Laboratory](http://www.jax.org/) 2014
+* Introduction to RNA-seq analysis
+
 
 
