@@ -14,6 +14,7 @@ title: Teaching
 
 ####[Workshop on Modern Approaches to High Throughput Sequencing](http://courses.jax.org/2014/Sequencing.html) at [The Jackson Laboratory](http://www.jax.org/) 2014
 * Introduction to RNA-seq analysis
-
+####[Genomic and Proteomic Approaches to Complex Heart, Lung, Blood, & Sleep Disorders](http://courses.jax.org/2014/hlb.html)at [The Jackson Laboratory](http://www.jax.org/) 2012-2013
+* RNA-seq technology and RNA-seq analysis
 
 
