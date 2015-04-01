@@ -18,4 +18,6 @@ title: Teaching
 ####[Genomic and Proteomic Approaches to Complex Heart, Lung, Blood, & Sleep Disorders](http://courses.jax.org/2014/hlb.html)at [The Jackson Laboratory](http://www.jax.org/) 2012-2013
 * RNA-seq technology and RNA-seq analysis
 
+####[Molecular Biology Junior Tutorials](http://molbio.princeton.edu/undergraduate/research/junior-independent-work) at Princeton University Fall 2011
+
 
