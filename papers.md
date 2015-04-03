@@ -2,6 +2,7 @@
 layout: page
 title: Papers
 ---
+* EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm (in preparation)
 
 * [PRDM9 Drives Evolutionary Erosion of Hotspots in Mus musculus through Haplotype-Specific Initiation of Meiotic Recombination](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004916#pgen-1004916-g007), Christopher L Baker, Shimpei Kajita, Michael Walker, Ruth L Saxl, **Narayanan Raghupathy**, Kwangbom Choi, Petko M Petkov, Kenneth Paigen, *PLoS Genetics*, **2015** (pdf)
 
