@@ -17,3 +17,4 @@ To address this challenge, We developed Seqnature, software tool that can take k
 Diploid organisms like humans have two copies (or alleles) of every autosomal gene. When there is one or more genetic variation between the two alleles, we can identify which allele is expressed and how much it is expressed. RNA-seq technology allows us to measure the allele-level expression. 
 ![ASE](/public/images/ASE-cartoon.jpg)
 
+### EMASE: Expectation Maximization for Allele Specific Expression
