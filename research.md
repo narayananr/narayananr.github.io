@@ -20,3 +20,5 @@ Diploid organisms like humans have two copies (or alleles) of every autosomal ge
 ![ASE](/public/images/ASE-cartoon.jpg)
 
 ### <font color="DarkCyan">EMASE: Expectation Maximization for Allele Specific Expression</font>
+Although RNA-seq is great to understand allele-specific expression, short sequence reads and un-accounted genetic variations are known to cause alignment bias and inaccurate estimation of allele-specific expression.  
+![EMASE](/public/images/EMASE-illustration.png)
