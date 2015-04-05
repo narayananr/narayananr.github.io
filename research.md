@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: <font color="DodgerBlue">Research</font>
 ---
 
 The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the methods extensively. 
