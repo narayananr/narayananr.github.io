@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the method extensively. 
+The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the methods extensively. 
 
 ### <font color="DarkCyan">Seqnature: Embracing genetic diversity </font>
 Large number of sequencing efforts have characterized genetic variations in detail and catalogued millions of Single Nucleotide Polymorphisms and short insertions and deletions. However, we are still lagging behind in using the SNPs and indels in a standard sequencing analyses, like RNA-seq and ChIP-seq analysis pipelines. 
