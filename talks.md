@@ -6,6 +6,6 @@ title: <font color="DodgerBlue">Talks</font>
 * Quantifying Allele-specific splicing in diploid genomes, IMGC Bar Harbor October 2014
 * [Allele-specific alternative splicing in diploid human genomes](http://www.ashg.org/2014meeting/abstracts/fulltext/f140122188.htm). American Society of Human Genetics 2014, San Diego CA, October 2014
 
-##Posters
+##<font color="DodgerBlue">Posters</font>
 * Quantifying gene and allele-specific expression simultaneously using personalized human genomes, Marco Island, Florida, AGBT 2014 
 * [Quantifying gene expression and allele specific expression simultaneously using personal human genomes](http://www.ashg.org/2013meeting/abstracts/fulltext/f130122723.htm), Boston MA ASHG 2013,
