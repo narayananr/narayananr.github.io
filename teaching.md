@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: <font color="DodgerBlue">Teaching</font>
 ---
 
 ####[Tufts](http://sackler.tufts.edu/Academics/Degree-Programs/PhD-Programs/Mammalian-Genetics-at-JAX)/[U. Maine Grad School's](http://gsbse.umaine.edu/) Mammalian Genetics Course (2013-2015)

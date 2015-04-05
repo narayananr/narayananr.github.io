@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers
+title: <font color="DodgerBlue">Papers</font>
 ---
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm (in preparation)
 
