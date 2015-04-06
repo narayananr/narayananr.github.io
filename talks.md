@@ -6,6 +6,8 @@ title: <font color="DodgerBlue">Talks</font>
 * Quantifying Allele-specific splicing in diploid genomes, IMGC Bar Harbor October 2014
 * [Allele-specific alternative splicing in diploid human genomes](http://www.ashg.org/2014meeting/abstracts/fulltext/f140122188.htm). American Society of Human Genetics 2014, San Diego CA, October 2014
 * Joint Statistical Meeting 2014, Boston, MA
+* Mount Desert Island Biological Laboratory, Invited seminar
+
 
 
 ##<font color="DodgerBlue">Posters</font>
