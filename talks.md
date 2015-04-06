@@ -7,6 +7,9 @@ title: <font color="DodgerBlue">Talks</font>
 * [Allele-specific alternative splicing in diploid human genomes](http://www.ashg.org/2014meeting/abstracts/fulltext/f140122188.htm). American Society of Human Genetics 2014, San Diego CA, October 2014
 * Joint Statistical Meeting 2014, Boston, MA
 * Mount Desert Island Biological Laboratory, Invited seminar
+* Complex Trait Community 2013, 12th annual meeting, Madison, WI
+* RECOMB Conference on Regulatory and Systems Genomics, San Francisco, CA 
+* Complex Trait Community meeting 2012, Pasteur Institute, Paris, France 
 
 
 
