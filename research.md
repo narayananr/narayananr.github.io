@@ -20,6 +20,8 @@ Diploid organisms like humans have two copies (or alleles) of every autosomal ge
 ![ASE](/public/images/ASE-cartoon.jpg)
 
 ### <font color="DarkCyan">EMASE: Expectation Maximization for Allele Specific Expression</font>
-Although RNA-seq is great to study allele-specific expression, short sequence reads and un-accounted genetic variations are known to cause alignment bias and inaccurate estimation of allele-specific expression. Current approaches to quantify allele-specific expression, relying only on the reference genome for alignment, need to go through an elaborate steps to avoid the alignment bias. We have developed an EM algorithm that can utilize diploid alignments with multi-mapping reads and estimate allele-level and gene-level expression simultaneously. Accounting for the genetic variations in a diploid model and utilizing unique and multi-mapping reads in the EM framework greatly help in reducing the bias and accurate quantitation.
+Although RNA-seq is great to study allele-specific expression, short sequence reads and un-accounted genetic variations are known to cause alignment bias and inaccurate estimation of allele-specific expression. Current approaches to quantify allele-specific expression, relying only on the reference genome for alignment, need to go through an elaborate steps to avoid the alignment bias. 
+
+We have developed an EM algorithm that can utilize diploid alignments with multi-mapping reads and estimate allele-level and gene-level expression simultaneously. Accounting for the genetic variations in a diploid model and utilizing unique and multi-mapping reads in the EM framework greatly help in reducing the bias and accurate quantitation. The EM algorithm is implemented in Python as software EMASE and it is freely available. 
 
 ![EMASE](/public/images/EMASE-illustration.png)
