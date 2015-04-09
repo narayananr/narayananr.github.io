@@ -24,5 +24,5 @@ Although RNA-seq is great to study allele-specific expression, short sequence re
 
 ![EMASE](/public/images/EMASE-illustration.png)
 
-We have developed an EM algorithm that can utilize diploid alignments with multi-mapping reads and estimate allele-level and gene-level expression simultaneously. Accounting for the genetic variations in a diploid model and utilizing unique and multi-mapping reads in the EM framework greatly help in reducing the bias and accurate quantitation. The EM algorithm is implemented in Python as software EMASE and it is freely available. 
+We have developed an EM algorithm that can utilize diploid alignments with multi-mapping reads and estimate allele-level and gene-level expression simultaneously. Accounting for the genetic variations in a diploid model and utilizing unique and multi-mapping reads in the EM framework greatly help in reducing the bias and accurate quantitation. The EM algorithm is implemented in Python as software EMASE and it is freely available. Download it from Github page for [EMASE](https://github.com/narayananr/emase). 
 
