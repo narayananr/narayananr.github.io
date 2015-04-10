@@ -9,6 +9,10 @@ title: <font color="DodgerBlue">Papers</font>
 
 * [Gene cluster statistics with gene families](http://mbe.oxfordjournals.org/content/26/5/957.long), **Narayanan Raghupathy** and Dannie Durand, **Molecular Biology and Evolution**, vol. 26(5), pp. 957-968, 2009
 
+* [Two plus two does not equal to three: Tests for multiple genome comparison](http://www.worldscientific.com/doi/abs/10.1142/S0219720008003242), **Narayanan Raghupathy**, Rose Hoberman and Dannie Durand, Journal of Bioinformatics and Computational Biology, vol. 6, No. 1, pp. 1-22, 2008. (A preliminary version appeared in the proceedings of the 5th Asia-Pacific Bioinformatics Conference (APBC), Advances in Bioinformatics & Computational Biology, Imperial College Press, vol. 5, pp. 215-225, 2007).
+
+* [Individual gene cluster statistics in noisy maps](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1035&context=biology), Narayanan Raghupathy and Dannie Durand, RECOMB Workshop on Comparative Genomics, McLysaght and Huson, Eds., Lecture Notes in Bioinformatics, vol. 3678, Springer-Verlag, pp. 106-120, 2005.
+
 ## In preparation/submitted/accepted
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
