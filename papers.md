@@ -24,7 +24,6 @@ title: <font color="DodgerBlue">Papers</font>
 
 * An Integrative genomic approach to estimate genotypes from RNA-seq data in genetically diverse population. Kwangbom Choi, **Narayanan Raghupathy**, Steven C Munger, Dan Gatti, and Gary Churchill 
 
-* A common post-translational mechanism that buffers protein abundance against transcriptional variation.
 
 
 
