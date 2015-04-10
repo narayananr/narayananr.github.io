@@ -6,7 +6,7 @@ title: <font color="DodgerBlue">Research</font>
 The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the methods extensively. 
 
 ### <font color="DarkCyan">Seqnature: Embracing genetic diversity </font>
-Large number of sequencing efforts have characterized genetic variations in detail and catalogued millions of Single Nucleotide Polymorphisms and short insertions and deletions. However, we are still lagging behind in using the SNPs and indels in a standard sequencing analyses, like RNA-seq and ChIP-seq analysis pipelines. 
+Large number of sequencing efforts have characterized genetic variations in detail and catalogued millions of Single Nucleotide Polymorphisms (SNP) and short insertions and deletions (indel). However, we are still lagging behind in using the SNPs and indels in a standard sequencing analyses, like RNA-seq and ChIP-seq analysis pipelines. 
 
 ![Seqnature](/public/images/seqnature-personalized-genome.png)
 
