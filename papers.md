@@ -14,7 +14,8 @@ title: <font color="DodgerBlue">Papers</font>
 * [Individual gene cluster statistics in noisy maps](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1035&context=biology), Narayanan Raghupathy and Dannie Durand, RECOMB Workshop on Comparative Genomics, McLysaght and Huson, Eds., Lecture Notes in Bioinformatics, vol. 3678, Springer-Verlag, pp. 106-120, 2005.
 
 ## In preparation/submitted/accepted
-Quantitative variation in C-to-U and A-to-I RNA editing pathways is determined by distinct genetic architectures, Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill, accepted in Genetics
+
+* Quantitative variation in C-to-U and A-to-I RNA editing pathways is determined by distinct genetic architectures, Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill, accepted in Genetics
 
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
