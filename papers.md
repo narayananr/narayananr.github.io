@@ -14,6 +14,8 @@ title: <font color="DodgerBlue">Papers</font>
 * [Individual gene cluster statistics in noisy maps](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1035&context=biology), Narayanan Raghupathy and Dannie Durand, RECOMB Workshop on Comparative Genomics, McLysaght and Huson, Eds., Lecture Notes in Bioinformatics, vol. 3678, Springer-Verlag, pp. 106-120, 2005.
 
 ## In preparation/submitted/accepted
+Quantitative variation in C-to-U and A-to-I RNA editing pathways is determined by distinct genetic architectures, Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill, accepted in Genetics
+
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
 * Genetics of hippocampal gene expression using diversity outbred mice, **Narayanan Raghupathy**, R. Robledo, D. Gatti, S. Munger, C. Phillips, J. Graber, M. Hibbs, M. Langston, G. Churchill, E. J. 
@@ -24,6 +26,7 @@ title: <font color="DodgerBlue">Papers</font>
 
 * An Integrative genomic approach to estimate genotypes from RNA-seq data in genetically diverse population. Kwangbom Choi, **Narayanan Raghupathy**, Steven C Munger, Dan Gatti, and Gary Churchill 
 
+A common post-translational mechanism that buffers protein abundance against transcriptional variation. [[Joel M. Chick1,2, Steven C. Munger1,3]], Petr Simecek3, Edward L. Huttlin2, Kwangbom Choi3, Daniel M. Gatti3, Narayanan Raghupathy3, [[Gary A. Churchill3,4, Steven P. Gygi2,4,*]]
 
 
 
