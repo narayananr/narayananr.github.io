@@ -23,7 +23,6 @@ title: <font color="DodgerBlue">Papers</font>
 
 * Osteoblast development is driven by trans-acting regulations Kwangbom Choi, **Narayanan Raghupathy**, K. Shultz, D. Godfrey, M. Hibbs, G. Churchill, and C. Ackert- Bicknell 
 
-* An Integrative genomic approach to estimate genotypes from RNA-seq data in genetically diverse population. Kwangbom Choi, **Narayanan Raghupathy**, Steven C Munger, Dan Gatti, and Gary Churchill 
 
 
 
