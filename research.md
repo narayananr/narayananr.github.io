@@ -26,3 +26,9 @@ Although RNA-seq is great to study allele-specific expression, short sequence re
 
 We have developed an EM algorithm that can utilize diploid alignments with multi-mapping reads and estimate allele-level and gene-level expression simultaneously. Accounting for the genetic variations in a diploid model and utilizing unique and multi-mapping reads in the EM framework greatly help in reducing the bias and accurate quantitation. The EM algorithm is implemented in Python as software EMASE and it is freely available. Download it from Github page for [EMASE](https://github.com/narayananr/emase). 
 
+
+### <font color="DarkCyan"> Cause and Extent of Allele-specific expression reciprocal F1 mice </font>
+To understand the cause and extent of allele-specific gene expression, We are using liver RNA-seq data from F1 mice crossed reciprocally. The F1 reciprocal cross from two divergent mouse inbred strains NOD and PWK allowed to find that allele-specific expression prevalent and most of allele-specific expression is caused by local genetic effect and only a handful known genes show parent-of-origin effect.
+
+### <font color="DarkCyan">Genetic Architecture of Gene Expression in Hippocampus and Liver </font>
+
