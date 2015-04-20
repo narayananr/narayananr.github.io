@@ -31,5 +31,11 @@ Accounting for the genetic variations in a diploid model and utilizing multi-map
 ### <font color="DarkCyan"> Cause and Extent of Allele-specific expression reciprocal F1 mice </font>
 To understand the cause and extent of allele-specific gene expression, We are using liver RNA-seq data from F1 mice crossed reciprocally. The F1 reciprocal cross from two divergent mouse inbred strains NOD and PWK allowed to find that allele-specific expression prevalent and most of allele-specific expression is caused by local genetic effect and only a handful of known genes show parent-of-origin effect.
 
+
 ### <font color="DarkCyan">Genetic Architecture of Gene Expression in Hippocampus and Liver </font>
+coming soon
+
+### <font color="DarkCyan">Classifying and quantifying human and mouse RNA-seq data from PDX models </font>
+coming soon
+
 
