@@ -4,3 +4,6 @@ I am, Narayanan Raghupathy, a postdoc with Gary Churchill's group at the Jackson
 
 Earlier, I did my PhD in Computational Biology with Prof. Dannie Durand at Carnegie Mellon University and worked with Prof. John Storey at Princeton University as a postdoc.
 
+P.S. Thanks to Karl Broman's tutorial, Jekyll and Poole for the website.
+
+
