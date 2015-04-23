@@ -23,7 +23,7 @@ title: <font color="DodgerBlue">Papers</font>
 
 * Osteoblast development is driven by trans-acting regulations Kwangbom Choi, **Narayanan Raghupathy**, K. Shultz, D. Godfrey, M. Hibbs, G. Churchill, and C. Ackert- Bicknell 
 
-
+* Splice-EMASE: Quantifying allele-specific splicing using EM algorithm
 
 
 
