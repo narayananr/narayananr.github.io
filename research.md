@@ -12,7 +12,7 @@ Large number of sequencing efforts have characterized genetic variations in deta
 
 To address this challenge, We developed, Seqnature, a software tool that can take known genetiic variations like SNPs and Indels and construct individualized or personalized genome. 
 
-In case of model organisms, Seqnature can be used to construct strain-specific genomes utilizing strain-specific variations and reference genomes. In the case of multi-parental population like Diversity Outbred Mice, Seqnature can build hybrid diploid genomes using haplotypes inferred from array genotypes. In the case of humans, Seqnature can build diploid genomes using phased genetic variations.
+In case of model organisms, Seqnature can be used to construct strain-specific genomes utilizing strain-specific variations and reference genomes. In the case of multi-parental population like Diversity Outbred Mice, Seqnature can build hybrid diploid genomes using haplotypes inferred from array genotypes. In the case of humans, Seqnature can build personalized diploid genomes using phased genetic variations.
  
 
 ### <font color="DarkCyan">Allele-specific expression </font>
