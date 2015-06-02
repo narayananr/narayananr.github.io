@@ -3,7 +3,7 @@ layout: page
 title: <font color="DodgerBlue">Research</font>
 ---
 
-The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the methods extensively. 
+The central theme of my recent research has been around developing computational/statistical methods for analyzing RNA-seq data and use the methods extensively for understanding allele-specific expression and perform expression-QTL analysis to understand the genetics of gene expression. 
 
 ### <font color="DarkCyan">Seqnature: Embracing genetic diversity </font>
 Large number of sequencing efforts have characterized genetic variations in detail and catalogued millions of Single Nucleotide Polymorphisms (SNP) and short insertions and deletions (indel). However, we are still lagging behind in using the SNPs and indels in a standard sequencing analyses, like RNA-seq and ChIP-seq analysis pipelines. 
