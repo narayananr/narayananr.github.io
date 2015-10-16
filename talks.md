@@ -2,7 +2,7 @@
 layout: page
 title: <font color="DodgerBlue">Talks</font>
 ---
-* Splice-EMASE: Quantifying allele-specific alternative splicing in diploid genomes (http://www.complextrait.org/ctc2015/), June 2015 CTC 2015, Portland Oregon 
+* [Splice-EMASE: Quantifying allele-specific alternative splicing in diploid genomes](http://www.complextrait.org/ctc2015/), June 2015 CTC 2015, Portland Oregon 
 * [Personalized RNA-seq Analysis: A Unified Framework](http://www.scigenomconferences.com/2014/program.php), 2014 NextGen Genomics & Bioinformaticse Technologies (NGBT) Conference, Bangalore November 2014
 * Quantifying Allele-specific splicing in diploid genomes, IMGC Bar Harbor October 2014
 * [Allele-specific alternative splicing in diploid human genomes](http://www.ashg.org/2014meeting/abstracts/fulltext/f140122188.htm). American Society of Human Genetics 2014, San Diego CA, October 2014
