@@ -17,6 +17,9 @@ title: <font color="DodgerBlue">Papers</font>
 
 * Quantitative variation in C-to-U and A-to-I RNA editing pathways is determined by distinct genetic architectures, Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill, accepted in Genetics
 
+* Defining the consequences of genetic variation on a proteome-wide scale, Joel Chick , Steven Munger , Petr Simecek , Edward Huttlin , Kwangbom Choi , Daniel Gatti , Narayanan Raghupathy , Karen Svenson , Gary Churchill, Steven Gygi, submitted
+
+
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
 * Genetics of hippocampal gene expression using diversity outbred mice, **Narayanan Raghupathy**, R. Robledo, D. Gatti, S. Munger, C. Phillips, J. Graber, M. Hibbs, M. Langston, G. Churchill, E. J. 
