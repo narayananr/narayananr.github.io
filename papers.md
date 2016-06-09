@@ -2,11 +2,8 @@
 layout: page
 title: <font color="DodgerBlue">Papers</font>
 ---
-<<<<<<< HEAD
 * [Genetic Architectures of Quantitative Variation in RNA Editing Pathways](http://www.genetics.org/content/early/2015/11/24/genetics.115.179481.abstract), Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill,  Genetics, 2016
-=======
 * [Genetic Architectures of Quantitative Variation in RNA Editing Pathways](http://intl.genetics.org/content/202/2/787), Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill, *Genetics*, **2015**
->>>>>>> 010e9c6b5b170022b1b36a75712ec5b95cc6307b
 
 * [PRDM9 Drives Evolutionary Erosion of Hotspots in Mus musculus through Haplotype-Specific Initiation of Meiotic Recombination](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004916#pgen-1004916-g007), Christopher L Baker, Shimpei Kajita, Michael Walker, Ruth L Saxl, **Narayanan Raghupathy**, Kwangbom Choi, Petko M Petkov, Kenneth Paigen, *PLoS Genetics*, **2015**
 
@@ -20,7 +17,6 @@ title: <font color="DodgerBlue">Papers</font>
 
 ## In preparation/submitted/accepted
 
-<<<<<<< HEAD
 
 * Defining the consequences of genetic variation on a proteome-wide scale, Joel Chick, Steven Munger, Petr Simecek, Edward Huttlin, Kwangbom Choi, Daniel Gatti, **Narayanan Raghupathy**, Karen Svenson, Gary Churchill, Steven Gygi, submitted
 =======
