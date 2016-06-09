@@ -22,11 +22,6 @@ title: <font color="DodgerBlue">Papers</font>
 
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
-* Genetics of hippocampal gene expression using diversity outbred mice, **Narayanan Raghupathy**, R. Robledo, D. Gatti, S. Munger, C. Phillips, J. Graber, M. Hibbs, M. Langston, G. Churchill, E. J. 
-
-* Osteoblast development is driven by trans-acting regulations Kwangbom Choi, **Narayanan Raghupathy**, K. Shultz, D. Godfrey, M. Hibbs, G. Churchill, and C. Ackert- Bicknell 
-
-* Splice-EMASE: Quantifying allele-specific splicing using EM algorithm
 
 
 
