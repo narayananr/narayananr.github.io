@@ -2,7 +2,7 @@
 layout: page
 title: <font color="DodgerBlue">Papers</font>
 ---
-* [Genetic Architectures of Quantitative Variation in RNA Editing Pathways](http://www.genetics.org/content/early/2015/11/24/genetics.115.179481.abstract), Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill,  Genetics, 2016
+* [Genetic Architectures of Quantitative Variation in RNA Editing Pathways](http://www.genetics.org/content/early/2015/11/24/genetics.115.179481.abstract), Tongjun Gu, Daniel M. Gatti, Anuj Srivastava, Elizabeth Snyder, **Narayanan Raghupathy**, Karen L. Svenson, Ivan Dotu, Jeffrey H. Chuang, Mark P. Keller, Alan D. Attie, Robert E. Braun, Gary A. Churchill,  Genetics, **2015**
 
 * [PRDM9 Drives Evolutionary Erosion of Hotspots in Mus musculus through Haplotype-Specific Initiation of Meiotic Recombination](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004916#pgen-1004916-g007), Christopher L Baker, Shimpei Kajita, Michael Walker, Ruth L Saxl, **Narayanan Raghupathy**, Kwangbom Choi, Petko M Petkov, Kenneth Paigen, *PLoS Genetics*, **2015**
 
