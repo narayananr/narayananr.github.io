@@ -19,9 +19,7 @@ title: <font color="DodgerBlue">Papers</font>
 
 
 * Defining the consequences of genetic variation on a proteome-wide scale, Joel Chick, Steven Munger, Petr Simecek, Edward Huttlin, Kwangbom Choi, Daniel Gatti, **Narayanan Raghupathy**, Karen Svenson, Gary Churchill, Steven Gygi, submitted
-=======
 * Defining the consequences of genetic variation on a proteome-wide scale, Joel Chick, Steven Munger, Petr Simecek, Edward Huttlin, Kwangbom Choi, Daniel Gatti, **Narayanan Raghupathy**, Karen Svenson, Gary Churchill, Steven Gygi, accepted
->>>>>>> 010e9c6b5b170022b1b36a75712ec5b95cc6307b
 
 * EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
 
