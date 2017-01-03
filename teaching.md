@@ -2,7 +2,11 @@
 layout: page
 title: <font color="DodgerBlue">Teaching</font>
 ---
-#### Software Carpentary instructor at the [workshop @jacksonlab](http://smcclatchy.github.io/2015-06-23-jackson/) Jun 23-24, 2015 
+#### Data Carpentry instructor at the [workshop @jacksonlab](https://smcclatchy.github.io/2016-09-29-jackson/) Spetember 29-30, 2016 
+
+#### Software Carpentry instructor at the [workshop @jacksonlab](http://smcclatchy.github.io/2015-06-23-jackson/) October 5-6, 2016 
+
+#### Software Carpentry instructor at the [workshop @jacksonlab](http://smcclatchy.github.io/2015-06-23-jackson/) Jun 23-24, 2015 
 
 #### [Tufts](http://sackler.tufts.edu/Academics/Degree-Programs/PhD-Programs/Mammalian-Genetics-at-JAX)/[U. Maine Grad School's](http://gsbse.umaine.edu/) Mammalian Genetics Course (2013-2016)
 * RNA-Seq: From experimental design to gene expression abundance
