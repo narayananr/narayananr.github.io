@@ -16,4 +16,5 @@ title: <font color="DodgerBlue">Talks</font>
 
 ###<font color="DodgerBlue">Posters</font>
 * [Quantifying gene and allele-specific expression simultaneously using personalized human genomes](../public/images/Raghupathy_AGBT2014_Poster_Final.pdf), Marco Island, Florida, AGBT 2014 
+
 * [Quantifying gene expression and allele specific expression simultaneously using personal human genomes](http://www.ashg.org/2013meeting/abstracts/fulltext/f130122723.htm), Boston MA ASHG 2013,
