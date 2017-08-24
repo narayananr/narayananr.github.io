@@ -2,6 +2,7 @@
 layout: page
 title: <font color="DodgerBlue">Papers</font>
 ---
+* [Hierarchical Analysis of Multi-mapping RNA-Seq Reads Improves the Accuracy of Allele-specific Expression](http://www.biorxiv.org/content/early/2017/07/22/166900), Narayanan Raghupathy*, Kwangbom Choi*, Matthew J Vincent, Glen L Beane, Keith Sheppard, Steven C Munger, Ron Korstanje, Fernando Pardo Manuel de Villena, Gary A Churchill, doi: https://doi.org/10.1101/166900 (bioRxiv preprint) **2017** 
 * [YBR/EiJ mice: a new model of glaucoma caused by genes on chromosomes 4 and 17](http://dmm.biologists.org/content/early/2016/06/08/dmm.024307.article-info), K Saidas Nair, Mihai Cosma, **Narayanan Raghupathy**, Michael A Sellarole, Nicholas G Tolman, Wilhelmine de Vries, Richard S Smith, Simon WM John, Disease Models and Mechanisms **2016**
 
 * [Defining the consequences of genetic variation on a proteome-wide scale](http://www.nature.com/nature/journal/v534/n7608/full/nature18270.html), Joel Chick, Steven Munger, Petr Simecek, Edward Huttlin, Kwangbom Choi, Daniel Gatti, **Narayanan Raghupathy**, Karen Svenson, Gary Churchill, Steven Gygi, Nature, **2016**
