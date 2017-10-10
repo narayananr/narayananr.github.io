@@ -20,12 +20,6 @@ title: <font color="DodgerBlue">Papers</font>
 
 * [Individual gene cluster statistics in noisy maps](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1035&context=biology), Narayanan Raghupathy and Dannie Durand, RECOMB Workshop on Comparative Genomics, McLysaght and Huson, Eds., Lecture Notes in Bioinformatics, vol. 3678, Springer-Verlag, pp. 106-120, 2005.
 
-## In preparation/submitted/accepted
-
-
-
-* EMASE: Accurate quantitation of allele-specific expression using an Expectation Maximization algorithm, **Narayanan Raghupathy**, Kwangbom Choi, Steven C Munger, Fernando Pardo-Manuel de Villena, Ron Korstanje, and Gary A Churchill 
-
 
 
 
